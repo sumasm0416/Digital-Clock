@@ -1,4 +1,4 @@
-## Digital-Clock
+# Digital Clock 
 
 This repository contains the code and resources for a digital clock project implemented in Python. The project aims to create a simple digital clock that displays the current time in a 24-hour format.
 
@@ -66,14 +66,10 @@ If you'd like to contribute to the digital clock project, follow these steps:
 
 5. Open a pull request on the original repository, explaining your changes and why they should be merged.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code as per the terms of the license.
-
 ## Acknowledgments
 
 - The digital clock project was inspired by the need for a simple and accurate time display using Python.
 
 - Thanks to the open-source community for providing helpful resources and libraries for Python development.
 
-##Thanks!
+## Thanks!
