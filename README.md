@@ -75,3 +75,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 - The digital clock project was inspired by the need for a simple and accurate time display using Python.
 
 - Thanks to the open-source community for providing helpful resources and libraries for Python development.
+
+- ##Thanks!
