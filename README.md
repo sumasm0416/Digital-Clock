@@ -76,4 +76,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 - Thanks to the open-source community for providing helpful resources and libraries for Python development.
 
-  #Thanks!
+##Thanks!
